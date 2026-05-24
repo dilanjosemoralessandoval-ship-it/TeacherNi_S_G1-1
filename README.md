@@ -53,5 +53,4 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
 ## Estudiantes que completaron la práctica:
 
 Estudiante: Diklan Jose Morales - Hora: 02:31 p. m.
-
-¡Listo! Con esto habrás completado la práctica de control de versiones.
+Estudiante: Dilan Jose - Hora: 4:10 PM
